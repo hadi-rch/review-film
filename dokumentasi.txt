@@ -1,0 +1,4 @@
+dokumentasi API.
+CRUD CAST & CRUD GENRE
+menggunakan postman
+link : https://documenter.getpostman.com/view/17702232/2sAYHzJ4BH 
